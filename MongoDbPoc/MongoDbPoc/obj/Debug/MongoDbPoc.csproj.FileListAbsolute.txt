@@ -1,0 +1,17 @@
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDbPoc.exe.config
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDbPoc.exe
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDbPoc.pdb
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\DnsClient.dll
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDB.Bson.dll
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDB.Driver.dll
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\System.Buffers.dll
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\DnsClient.xml
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDB.Bson.xml
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDB.Driver.xml
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\obj\Debug\MongoDbPoc.csprojResolveAssemblyReference.cache
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\obj\Debug\MongoDbPoc.csproj.CoreCompileInputs.cache
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\obj\Debug\MongoDbPoc.exe
+C:\Users\raphael.l.fernandes\source\repos\MongoDbPoc\MongoDbPoc\obj\Debug\MongoDbPoc.pdb
